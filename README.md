@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 Atualemente estou cursando Sistemas de Informação na Universidade Federal de Uberlândia (UFU)
+- 🔭 Atualmente estou cursando Sistemas de Informação na Universidade Federal de Uberlândia (UFU)
 - 🌱 Estou estudando sobre API's e Banco de dados em geral e estou fazendo Iniciação Científica sobre manipulação de vídeo
 - 📫 Contato: rod300603@gmail.com
   
