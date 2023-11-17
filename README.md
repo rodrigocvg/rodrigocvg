@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou cursando Sistemas de Informação na Universidade Federal de Uberlândia (UFU)
-- 🌱 Estou estudando programação em geral e estou fazendo Iniciação Científica sobre manipulação de vídeo e detecção de objetos
+- 🌱 Estou estudando programação em geral e estou fazendo Iniciação Científica sobre visão computacional em manipulação de vídeo e detecção de objetos
 - 📫 Contato: rod300603@gmail.com
   
   <div align="center">
